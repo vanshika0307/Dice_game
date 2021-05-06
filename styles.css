@@ -11,7 +11,7 @@
   }
   
   body {
-    background-color: #393E46;
+    background-color: #F79862;
   }
   
   h1 {
@@ -19,12 +19,12 @@
     font-family: 'Satisfy', cursive;
     text-shadow: 5px 0 #232931;
     font-size: 5rem;
-    color: #4ECCA3;
+    color: brown;
   }
   
   p {
     font-size: 2rem;
-    color: #4ECCA3;
+    color: slateblue;
     font-family: 'Satisfy', cursive;
   }
   
@@ -47,7 +47,7 @@
     border-radius: 20px;
     font-family: 'Satisfy', cursive;
     font-weight: bold;
-    background-color: #4ECCA3;
+    background-color: slateblue;
     color: black;
     border: none;
   }
