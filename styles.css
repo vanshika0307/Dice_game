@@ -1,0 +1,54 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+  body {
+    background-color: #393E46;
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family: 'Satisfy', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 5rem;
+    color: #4ECCA3;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Satisfy', cursive;
+  }
+  
+  img {
+    width: 80%;
+  }
+  
+  footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+  
+  }
+
+  button{
+    margin-top: 50px;
+    padding: 4px 8px;
+    font-size: 1.5rem;
+    border-radius: 20px;
+    font-family: 'Satisfy', cursive;
+    font-weight: bold;
+    background-color: #4ECCA3;
+    color: black;
+    border: none;
+  }
+  
